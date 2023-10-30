@@ -1,5 +1,5 @@
 import streamlit as st
-import pandas_datareader.wb as wb
+from pandas_datareader import data, wb
 import matplotlib.pyplot as plt
 import plotly.figure_factory as ff
 import numpy as np
