@@ -6,10 +6,6 @@ import numpy as np
 import seaborn as sns
 import pandas as pd
 
-pip install pandas-datareader
-pip install plotly
-pip install seaborn
-
 
 st.title('Proyecto Big Data')
 st.write('### Susana Valencia')
